@@ -9,3 +9,10 @@ Create a new Laravel application and install livewire via composer
 ```bash
 composer require livewire/livewire
 ```
+
+
+## Creating a component
+
+```bash
+artisan make:livewire hello-world
+```
